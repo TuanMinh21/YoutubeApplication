@@ -1,0 +1,67 @@
+<resources>
+    <string name="app_name">Youtube Channel Java</string>
+
+    <string name="banner_ad_unit_id">ca-app-pub-3940256099942544/6300978111</string>
+
+    // Navigation
+    <string name="drawer_open">Open</string>
+    <string name="drawer_close">Close</string>
+
+    // Menu
+    <string name="my_channel">My Channel</string>
+    <string name="playlist">Playlists</string>
+    <string name="all_video">All video</string>
+    <string name="rate_app">Rate app</string>
+    <string name="share_app">Share app</string>
+    <string name="about_us">About us</string>
+    <string name="more_app">More apps</string>
+
+    // action
+    <string name="action_ok">OK</string>
+    <string name="action_cancel">Cancel</string>
+    <string name="action_sort_by_view">Sort by view</string>
+    <string name="action_sort_by_date">Sort by date</string>
+
+    // dialog
+    <string name="waiting_message">Please wait</string>
+
+    // msg
+    <string name="error_not_connect_to_internet">You are not connect to internet</string>
+    <string name="msg_exit_app">Do you want to exit?</string>
+
+    // Home screen
+    <string name="video_latest">Latest videos</string>
+    <string name="video_popular">Popular videos</string>
+    <string name="see_all">See all</string>
+    <string name="label_published">Published:</string>
+    <string name="open_youtube_channel">Open YouTube Channel</string>
+    <string name="open_youtube_video">Open YouTube Video</string>
+    <string name="video_player">Video player</string>
+    <string name="comments">Comments</string>
+    <string name="no_comment">No comment available</string>
+    <string name="see_all_underline"><u>See all</u></string>
+    <string name="lbl_support_mail">Send mail</string>
+    <string name="lbl_support_hotline">Hotline</string>
+    <string name="lbl_support_skype">Skype</string>
+    <string name="lbl_support_facebook">Facebook</string>
+    <string name="lbl_support_instagram">Instagram</string>
+    <string name="lbl_support_twitter">Twitter</string>
+    <string name="label_">-</string>
+
+    // About us
+    <string name="about_title">TinCoder</string>
+    <string name="channel_name">TinCoder Android Java</string>
+    <string name="about_content">Provides Android, iOS, Web Source Codes and Development Services. Highly Committed to Quality Products and Excellent Services.</string>
+    <string name="label_contact_us">Contact us:</string>
+    <string name="label_facebook">Facebook</string>
+    <string name="label_call">Call Phone</string>
+    <string name="label_gmail">Gmail</string>
+    <string name="label_skype">Skype</string>
+    <string name="label_youtube">Youtube</string>
+    <string name="label_zalo">Zalo</string>
+
+    // Splash
+    <string name="splash_text">Highly committed to quality products &amp; excellent services</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
